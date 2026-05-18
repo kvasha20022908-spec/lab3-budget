@@ -1,0 +1,1 @@
+echo # tkinter входит в стандартную библиотеку Python > requirements.txt
